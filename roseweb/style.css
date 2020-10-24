@@ -1,0 +1,20 @@
+li{
+    display: inline;
+    padding: 20px;
+}
+
+ol{
+    margin-left: 400px;
+}
+
+.navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: coral;
+}
+img{
+    height: 800px;
+    width: 800px;
+}
